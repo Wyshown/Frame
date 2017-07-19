@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CKDServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/CKDServer</output-path>
+    <root id="archive" name="CKDServer.war">
+      <element id="artifact" artifact-name="CDKServer:war exploded" />
+    </root>
+  </artifact>
+</component>
